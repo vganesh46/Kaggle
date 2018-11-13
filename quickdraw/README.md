@@ -2,3 +2,4 @@
 
 Next Steps:
 * Someone proposed curicullum learning here - https://www.kaggle.com/sorokin/sketch-entropy/notebook
+* Heng CherKeng's suggestions - https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/70558
